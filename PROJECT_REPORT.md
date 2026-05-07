@@ -184,6 +184,11 @@ The dashboard is designed primarily for:
 
 It is not intended as a production traffic management system.
 
+## Interactive Power BI 
+We created a Power BI dashboard that analyzes accidents in California from 2016 to 2023. The dashboard includes filters such as date, location, weather conditions, daily accidents, and accident occurrence trends. It also provides insights into accident patterns across the state.
+
+[**Explore Power BI Dashboard**](https://app.powerbi.com/links/h6upz1aEDn?ctid=f78e973e-5c0b-4ab8-bbd7-9887c95a8ebd&pbi_source=linkShare)
+
 ## 11. Deployment Design
 
 For deployment, the dashboard does not scan the full raw dataset at runtime.  
