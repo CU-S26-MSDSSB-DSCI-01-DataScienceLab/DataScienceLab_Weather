@@ -1,0 +1,27 @@
+project:
+  type: website # This specifies that the project is a website. Because of this file
+                # `quarto preview` puts the html-files in the _site folder.
+  render:       # Here one can specify which files to render when building the website qith `quarto preview`
+    - "*"       # This includes all files in the project folder. It is necessary to make exclusions possible in the next line. 
+    - "!*.md"   # This excludes all `.md` files, like `INSTRUCTIONS.md` to be put into the _site folder. 
+
+website:
+  title: "THE TITLE OF YOUR PROJECT"    # Replace with the title of your project
+  navbar: # This specifies the navigation bar at the top of the page.
+    left:
+      - text: "Home"
+        href: index.qmd
+  sidebar: # This specifies the sidebar on the left of the page. Add your pages here in the order you want them to appear.
+    style: "docked"
+    contents:
+      - introduction.qmd
+      - sec1.qmd
+      - sec2.ipynb
+      - conclusion.qmd
+      - dashboard.qmd
+
+format:
+  html:
+    theme: cosmo       # You can choose other themes https://quarto.org/docs/output-formats/html-themes.html
+    toc: true          # Show table of contents on all pages
+    code-fold: true    # Fold code chunks by default 

@@ -1,0 +1,5 @@
+---
+title: "Conclusion"
+---
+
+*Write a concluding section for your project here. A conclusion can emphasize selected key findings and put them into a larger context. In the conclusion, you can also discuss limitation and potential applications and extensions of your analysis. The conclusion need not be long (200 words can be enough). It can be longer, if you have some sensible points to discuss. *

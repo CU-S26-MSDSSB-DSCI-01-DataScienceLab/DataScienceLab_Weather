@@ -1,0 +1,23 @@
+---
+title: "Correlation of Weather and Traffic Statistics"
+author:
+    - name: Nilesh Vatsyayan
+    - name: Neha Barthwal 
+    - name: Malindi Manganyi
+    - name: Tshepiso Kalayamodimo
+---
+
+This assessment is focused on the analysis of weather as it relates to severity of traffic accidents that occur in California, USA between 2016 and 2023 as mentioned in the Introduction section to follow. With the data extracted from Kaggle, we hope to analyse accident severity in relation to weather patterns as mentioned before, but also how different road structures affect the severity of the accidents alongside the weather analysis. Conducting an analysis of the number of accidents that happen in each year, which year has the highest number of accidents, which hours of the day have the highest accidents happening will be done, among others. 
+
+The methods that will be applied will include Exploratory Data Analysis to look at. 
+
+Feature Engineering to further 
+
+Creation of an interactive dashboard with the use of Power Bi. This was done by importing the raw data sourced from Kaggle as a csv file. The data was then cleaned and transformed using Power Query, this included the handling of missing values and standardisation formats to support analysis of the data. A report was then built using visuals such as bar charts, maps, and KPI cards to present key insights. Filters were applied and sliced to enable for a dynamic exploration of the data. 
+
+Key Findings within this report include. 
+
+
+
+
+*Write a one-page (about 200-600 words) executive summary of your project here. This should be a concise summary of the problem you are addressing, the data you are using, the methods you are applying, and the key findings and conclusions of your project. The executive summary should be written in a way that is accessible to a general audience, and should highlight the most important aspects of your project. Use cross-links to your pages like the [Introduction](introduction.qmd), [Each Section (here `sec2.ipynb`)](sec2.ipynb), [Conclusion](conclusion.qmd), and your [Dashboard](dashboard.qmd) (optional). Remove this text when you write your dashboard.* 

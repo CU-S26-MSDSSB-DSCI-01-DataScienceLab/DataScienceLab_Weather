@@ -1,0 +1,30 @@
+---
+title: "Correlation of Weather and Traffic Statistics"
+---
+
+# Project Description
+
+In this study we hope to point out and anaylse the commonalities as well as possible causations of accident and weather data. Looking at different accident scenes and seeing how the weather forecast for that specific area has any effect on the severity of the accident. 
+
+The study aims to answer the following research questions:
+- Which county had the most accidents?
+- At what hours and on which days do accidents occur most frequently?
+- How does accident severity vary by month each year?
+- Which months have the highest number of accidents?
+- How does accident severity vary by year?
+- Which year had the highest number of severe accidents?
+
+# Data Sources
+
+The dataset is sourced from Kaggle. The data comes from a countrywide car accident dataset that covers 49 states in USA but this study is focused only on the data collected in California, USA. The data was collected between 2016 and 2023 using multiple APIs that provided data on traffic incident streams. The APIs broadcast data captured by different entities showing the traffic data. This includes the US and state departments of transportation, law enforcement agancies, traffic cameras, and traffic sensors in road networks. The data currently contains around 7.7 million accident records all together but because our focus is just on California, the dataset of the study has appromately 1.7 million. 
+
+
+# Sections
+
+*Write here a short summary of the other pages. You can also use cross-links to your pages like [Section (here `sec2.ipynb`)](sec2.ipynb).*
+1. Workplan: contains a detailed layout of the potential direction the assignement will be taking, this includes each members contribution as well the tasks we have or still will be performing. 
+2. Index: this page provides a brief and detailed overview of the focus of the assignment as well as the intended objective. It also includes the methods used, an explanation of the data and a brief conclusion as well as key findings that have appeared during data exploration. 
+3. Report1.qmd: This file shows a few synthentic visuals concerning the data and the what the Feature engineering and model does. It also provides a brief report answering the projected questions that are presented. 
+4. Sec2.ipynb:
+5. Conclusions: on this page a summary of the assignment as well as key findings and possible recommendations are mentioned. 
+
