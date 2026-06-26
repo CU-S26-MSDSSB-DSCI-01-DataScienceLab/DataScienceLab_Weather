@@ -1,0 +1,17 @@
+[
+  "Temperature(F)",
+  "Humidity(%)",
+  "Visibility(mi)",
+  "Wind_Speed(mph)",
+  "Weather_Condition",
+  "Sunrise_Sunset",
+  "Crossing",
+  "Junction",
+  "Stop",
+  "Traffic_Signal",
+  "Station",
+  "neighbor_risk",
+  "hour_sin",
+  "hour_cos",
+  "wet_rush_hour"
+]
